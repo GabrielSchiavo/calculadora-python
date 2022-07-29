@@ -23,7 +23,7 @@ Após baixar o projeto, você pode abrir com o Visual Studio Code. Para o projet
 
 * Python >= 3.10.5
 
-Agora, dentro da pasta do projeto abra um terminal e execute:
+Agora, na pasta do projeto abra um terminal e execute:
 
 * python calculadora.py
 
