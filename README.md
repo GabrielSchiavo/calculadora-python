@@ -3,7 +3,7 @@
 <p align="left">
     <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge"/>
     <!-- <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge"/> -->
-    <img src="https://img.shields.io/github/license/GabrielSchiavo/calculadora-python?color=blue&style=for-the-badge"/>
+    <img src="https://img.shields.io/github/license/GabrielSchiavo/to-do-list?color=blue&style=for-the-badge"/>
 </p>
 
 Calculadora simples em Python com interface gráfica.
