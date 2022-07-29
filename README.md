@@ -10,7 +10,6 @@ Calculadora simples em Python com interface gráfica.
 
 ## :hammer: Funcionalidades do projeto
 - `Calculadora simples`: calculadora simples para cálculos de soma, subtração, divisão e multiplicação.
-- `Função de memória`: para armazenar valores na memória.
 
 <br>
 <img src="./assets/screenshot/screenshot1.png" alt="Screenshot 1"/>
