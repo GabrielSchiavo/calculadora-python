@@ -29,6 +29,6 @@ Agora, na pasta do projeto abra um terminal e execute:
 
 Agora o projeto está pronto para ser utilizado.
 
-## :heavy_check_mark: Tecnologias utilizadas
+## :white_check_mark: Tecnologias utilizadas
 * `Python - 3.10.5`
 * `Tkinter - 8.6`
