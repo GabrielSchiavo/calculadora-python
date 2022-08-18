@@ -12,8 +12,10 @@ Calculadora simples em Python com interface gráfica.
 - `Calculadora simples`: calculadora simples para cálculos de soma, subtração, divisão e multiplicação.
 
 <br>
-<img src="./assets/screenshot/screenshot1.png" alt="Screenshot 1"/>
-<img src="./assets/screenshot/screenshot2.png" alt="Screenshot 2"/>
+<div display: inline_block align="center">
+    <img src="./assets/screenshot/screenshot1.png" alt="Screenshot 1"/>
+    <img src="./assets/screenshot/screenshot2.png" alt="Screenshot 2"/>
+</div>
 
 ## :file_folder: Acesso ao projeto
 Você pode [acessar o código-fonte do projeto](https://github.com/GabrielSchiavo/calculadora-python) ou [baixá-lo](https://github.com/GabrielSchiavo/calculadora-python/archive/refs/heads/main.zip).
