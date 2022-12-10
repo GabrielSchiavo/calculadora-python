@@ -9,7 +9,7 @@
 Calculadora simples em Python com interface gráfica.
 
 ## :hammer: Funcionalidades do projeto
-- `Calculadora simples`: calculadora simples para cálculos de soma, subtração, divisão e multiplicação.
+- `Calculadora simples:` calculadora simples para cálculos de soma, subtração, divisão e multiplicação.
 
 <br>
 <div display: inline_block align="center">
@@ -26,8 +26,9 @@ Após baixar o projeto, você pode abrir com o Visual Studio Code. Para o projet
 * Python >= 3.10.5
 
 Agora, na pasta do projeto abra um terminal e execute:
-
-* python calculadora.py
+```bash
+python calculadora.py
+```
 
 Agora o projeto está pronto para ser utilizado.
 
